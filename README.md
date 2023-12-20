@@ -1,2 +1,2 @@
-# Class_Topic-Projects
-This is the topics/projects I done at class.
+# Class Topic/Projects
+These are the topics/projects cover in class.
