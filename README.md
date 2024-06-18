@@ -8,3 +8,9 @@ Topics include basic data structures such as arrays, lists, stacks, and queues. 
 ## CS 061 - Machine Organization and Assembly Language Programming
 
 An introduction to computer organization. Topics include number representation, combinational and sequential logic, computer instructions, memory organization, addressing modes, interrupt, input/output (I/O), assembly language programming, assemblers, and linkers.
+
+## CS 100 - Software Construction
+
+Emphasizes development of software systems. Topics include design and implementation strategies and selection and mastery of programming languages, environment tools, and development processes. Develops skill in programming, testing, debugging, performance evaluation, component integration, maintenance, and documentation. Covers professional and ethical responsibilities and the need to stay current with technology.
+
+Project Done: [Movie Recommendation System](https://github.com/XiyuanWu/Movie_Recommendation_System.git).
