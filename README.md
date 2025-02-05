@@ -14,3 +14,8 @@ An introduction to computer organization. Topics include number representation, 
 Emphasizes development of software systems. Topics include design and implementation strategies and selection and mastery of programming languages, environment tools, and development processes. Develops skill in programming, testing, debugging, performance evaluation, component integration, maintenance, and documentation. Covers professional and ethical responsibilities and the need to stay current with technology.
 
 Project Done: [Movie Recommendation System](https://github.com/XiyuanWu/Movie_Recommendation_System.git).
+
+## CS 170 - Introduction to Artificial Intelligence
+
+An introduction to the field of artificial intelligence. Focuses on discrete-valued problems. Covers heuristic search, problem representation, and classical planning. Also covers constraint satisfaction and logical inference.
+
