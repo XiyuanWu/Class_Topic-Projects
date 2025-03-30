@@ -15,6 +15,10 @@ Emphasizes development of software systems. Topics include design and implementa
 
 Project Done: [Movie Recommendation System](https://github.com/XiyuanWu/Movie_Recommendation_System.git).
 
+## CS 166 - Database Management Systems
+
+Covers basic concepts of databases and database management systems. Topics include entity-relationship modeling for design, relational data model, relational algebra, Structured Query Language (SQL), secondary storage, indexing and hashing, query evaluation and optimization, and overview of transactions.
+
 ## CS 170 - Introduction to Artificial Intelligence
 
 An introduction to the field of artificial intelligence. Focuses on discrete-valued problems. Covers heuristic search, problem representation, and classical planning. Also covers constraint satisfaction and logical inference.
